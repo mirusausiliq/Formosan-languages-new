@@ -1,0 +1,4 @@
+2023-12-20 Fixed the bug of unknown errors.
+2021-01-05 Added search by input querries, which support regex
+2020-12-21 Added pandas-profiling 
+2020-12-17 Deployed Streamlit app
