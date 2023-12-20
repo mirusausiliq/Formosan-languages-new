@@ -1,7 +1,7 @@
 # 台灣南島語-華語句庫資料集
 (Dataset of Formosan-Mandarin sentence pairs)
 
-[點我](https://share.streamlit.io/howard-haowen/formosan-languages/main/app.py)進入互動式查詢系統
+[點我](https://mirusausiliq-formosan-languages.streamlit.app)進入互動式查詢系統
 
 ## 資料概要
 - 🎢 資料集合計約13萬筆台灣南島語-華語句對
